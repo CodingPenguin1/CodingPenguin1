@@ -8,4 +8,7 @@ I daily Arch Linux on both my laptop and desktop, and have an [install guide](ht
 
 Here's a [resume](https://docs.google.com/document/d/1E8GjJw5Gn6V2tUvBQHWv36XcTpV_17c_-6trEnQ_7b4/edit?usp=sharing) with some of my computer science-related work experiences and achievements
 
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/vue/3-stats.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/default/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/default/3-stats.svg)
