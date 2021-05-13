@@ -2,7 +2,7 @@
 
 I'm an undergraduate Computer Engineering student at Wright State University with an interest in Python programming and PC hardware
 
-Some of my favorite projets so far:
+Some of my favorite projects so far:
 - [COVID-19 tracker/emailer](https://github.com/CodingPenguin1/Covid-Tracker)
 - [Automatic computer locker, using facial recognition](https://github.com/CodingPenguin1/facelocker)
 - [Linux voice assistant](https://github.com/CodingPenguin1/JARVIS-Voice-Assistant)
