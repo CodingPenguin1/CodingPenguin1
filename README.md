@@ -12,7 +12,8 @@ I daily Arch Linux on both my laptop and desktop, and have an [install guide](ht
 
 Here's a [resume](https://docs.google.com/document/d/1ejyci6IRYtvvyN487E2jdfGGyzUU60aHhZeL6nYl2bU/edit?usp=sharing) with some of my computer science-related work experiences and achievements
 
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/nord_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/3-stats.svg)
+![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/4-productive-time.svg)
