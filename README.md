@@ -2,8 +2,6 @@
 
 I'm a graduate computer science student at the University of Cincinnati  with an interest in Python programming and PC hardware
 
-I daily Arch Linux on both my laptop and desktop, and have an [install guide](https://github.com/CodingPenguin1/ArchLinuxInstallGuide). Check out my [dotfiles](https://github.com/CodingPenguin1/dotfiles)
-
 Here's a [resume](https://docs.google.com/document/d/1ejyci6IRYtvvyN487E2jdfGGyzUU60aHhZeL6nYl2bU/edit?usp=sharing) with some of my computer science-related work experiences and achievements
 
 ![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/monokai/0-profile-details.svg)
