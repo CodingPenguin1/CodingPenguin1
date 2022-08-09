@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-I'm an undergraduate Computer Engineering student at Wright State University with an interest in Python programming and PC hardware
+I'm a graduate computer science student at the University of Cincinnati  with an interest in Python programming and PC hardware
 
 I daily Arch Linux on both my laptop and desktop, and have an [install guide](https://github.com/CodingPenguin1/ArchLinuxInstallGuide). Check out my [dotfiles](https://github.com/CodingPenguin1/dotfiles)
 
