@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/CodingPenguin1/CodingPenguin1/master/profile-summary-card-output/buefy/4-productive-time.svg)
-```
-
-    
