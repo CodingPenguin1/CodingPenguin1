@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-I'm a graduate computer science student at the University of Cincinnati  with an interest in Python programming and PC hardware
+I'm a graduate computer science student at the University of Cincinnati with an interest in Python programming and PC hardware
 
 Here's a [resume](https://docs.google.com/document/d/1DVarJf7ZazODYKpgwmevdnX0c1BzFPCvy9T0DI5_dLw/edit?usp=sharing) with some of my computer science-related work experiences and achievements
 
